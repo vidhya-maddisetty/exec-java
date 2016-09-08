@@ -5,7 +5,7 @@
 	<groupId>com.zuora</groupId>
 	<artifactId>zilla</artifactId>
 	<version>0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>zilla</name>
 	<url>http://maven.apache.org</url>
